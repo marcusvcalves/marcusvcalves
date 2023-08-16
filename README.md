@@ -21,7 +21,7 @@ Gosto de desenvolver sites e aprender coisas novas no mundo da tecnologia 😊�
 ### 📫 Contato
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/marcus-vin%C3%ADcius-carvalho-alves-ab31341a8/">
+  <a href="https://www.linkedin.com/in/marcusvcalves">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
