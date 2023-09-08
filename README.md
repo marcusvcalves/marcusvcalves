@@ -1,8 +1,8 @@
 ## Oláá 👋
 
-Gosto de desenvolver sites e aprender coisas novas no mundo da tecnologia 😊😊
+Gosto de desenvolver sites e aprender coisas novas no mundo da tecnologia 😉
 
-### 😄 Gosto de trabalhar com
+### 🙂 Minhas principais tecnologias
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -14,11 +14,10 @@ Gosto de desenvolver sites e aprender coisas novas no mundo da tecnologia 😊�
 </div>
 
 
-### 🤔 Em que estou melhorando atualmente
+### 🤔 Meu foco atual
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </div>
 
