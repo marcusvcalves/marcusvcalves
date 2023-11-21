@@ -21,7 +21,6 @@ Gosto de desenvolver sites e aprender coisas novas no mundo da tecnologia 😉
 ### Frontend
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
 </div>
 
 ### Database
