@@ -1,6 +1,6 @@
 ## Oláá 👋
 
-Gosto de desenvolver sites e aprender coisas novas no mundo da tecnologia 😉
+Sou um desenvolvedor web full stack graduado em Ciência da Computação
 
 ### Minhas principais linguagens
 
@@ -15,7 +15,6 @@ Gosto de desenvolver sites e aprender coisas novas no mundo da tecnologia 😉
 
 <div display="flex">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </div>
 
 ### Frontend
@@ -26,7 +25,7 @@ Gosto de desenvolver sites e aprender coisas novas no mundo da tecnologia 😉
 ### Database
 <div display="flex">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
 ### 📫 Contato
