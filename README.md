@@ -1,9 +1,6 @@
-## Oláá 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusvcalves&show_icons=true&theme=dark&card_width=470)
 
-Sou um desenvolvedor web full stack graduado em Ciência da Computação
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusvcalves&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcusvcalves&line_height=10&card_width=290&layout=compact&theme=dark&hide_title=false&count_private=true&langs_count=5&show_icons=true&hide=html,css,scss,sass,python&border_radius=3&count_private=true)
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcusvcalves&card_width=470&layout=compact&theme=dark&hide_title=false&count_private=true&langs_count=5&show_icons=true&hide=html,css,scss,sass,python&border_radius=3&count_private=true)
 
 ### 📫 Contato
 <div display="flex">
