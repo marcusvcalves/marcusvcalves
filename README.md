@@ -1,6 +1,6 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusvcalves&show_icons=true&theme=dark&card_width=470) --> 
 
-![Most Used tetete](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvcalves&card_width=470&layout=compact&theme=dark&hide=html,css,sass,scss)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvcalves&card_width=470&layout=compact&theme=dark&hide=html,css,sass,scss)
 
 ### 📫 Contato
 <div display="flex">
